@@ -1,7 +1,5 @@
 *Customize*
-+
 
 *your*
-+
 
 *Environment*
