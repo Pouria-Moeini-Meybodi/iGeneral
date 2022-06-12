@@ -1,5 +1,2 @@
-# Customize
-
-# your
-
-# Environment*
+# Customize your Environment*
+## with easy steps
