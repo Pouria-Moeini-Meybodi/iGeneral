@@ -1,4 +1,4 @@
-# Customize your Environment
+# Customize your Command Environment
 with easy steps which makes it easy to read
 to search more options you read the link below:
 
